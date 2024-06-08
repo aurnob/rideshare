@@ -1,2 +1,12 @@
-# rideshare
-Ride Share App with Laravel and Vue.
+# Ride Share
+
+This is the Ride Share Application project with Laravel and Vue.
+
+## Get Started
+
+You can either `cd` into each directory and run the separate stacks as individual applications, or use the included `docker-compose.yml` file to spin everything up under Docker containers.
+
+```sh
+docker compose up
+```
+
